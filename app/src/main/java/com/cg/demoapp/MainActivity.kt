@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
 }
 
 //feature test commit
+//feature test commit2
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
